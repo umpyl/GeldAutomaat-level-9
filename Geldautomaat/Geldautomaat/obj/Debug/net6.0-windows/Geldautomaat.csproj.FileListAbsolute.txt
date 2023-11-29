@@ -1,0 +1,121 @@
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.exe
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.deps.json
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.runtimeconfig.json
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.pdb
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.AssemblyReference.cache
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat_MarkupCompile.cache
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat_MarkupCompile.lref
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.g.resources
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.AssemblyInfoInputs.cache
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.AssemblyInfo.cs
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.CoreCompileInputs.cache
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.CopyComplete
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\refint\Geldautomaat.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.pdb
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.genruntimeconfig.cache
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\ref\Geldautomaat.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.exe
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.deps.json
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.runtimeconfig.json
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.pdb
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Google.Protobuf.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\MySql.Data.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Text.Json.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\ZstdSharp.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.AssemblyReference.cache
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\MainWindow.g.cs
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\App.g.cs
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat_MarkupCompile.cache
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat_MarkupCompile.lref
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\MainWindow.baml
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.g.resources
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.GeneratedMSBuildEditorConfig.editorconfig
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.AssemblyInfoInputs.cache
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.AssemblyInfo.cs
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.CoreCompileInputs.cache
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.CopyComplete
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\refint\Geldautomaat.dll
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.pdb
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.genruntimeconfig.cache
+M:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\ref\Geldautomaat.dll
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\Cetinkaya\OneDrive - ROC Midden Nederland\Documenten\school\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Window1.baml
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.exe
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.deps.json
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.runtimeconfig.json
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Geldautomaat.pdb
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\Google.Protobuf.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\MySql.Data.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\System.Text.Json.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\ZstdSharp.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.AssemblyReference.cache
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\MainWindow.g.cs
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Window1.g.cs
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\App.g.cs
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat_MarkupCompile.cache
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat_MarkupCompile.lref
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\MainWindow.baml
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Window1.baml
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.g.resources
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.GeneratedMSBuildEditorConfig.editorconfig
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.AssemblyInfoInputs.cache
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.AssemblyInfo.cs
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.CoreCompileInputs.cache
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.csproj.CopyComplete
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\refint\Geldautomaat.dll
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.pdb
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\Geldautomaat.genruntimeconfig.cache
+R:\Xamp\htdocs\level 9\l9-10-geldautomaat-in-c-umpyl\Geldautomaat\Geldautomaat\obj\Debug\net6.0-windows\ref\Geldautomaat.dll
